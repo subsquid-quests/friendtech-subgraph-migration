@@ -18,7 +18,7 @@ This quest is to migrate the [Friendtech subgraph](https://github.com/balakhonof
 
 | Category         | Skill Level                           | Time required (hours) | Max Participants | Reward                                | Status |
 | ---------------- | ------------------------------------- | --------------------- | ---------------- | ------------------------------------- | ------ |
-| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~10                   | 5                | $\textcolor{red}{\textsf{2000tSQD}}$  | open   |
+| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~10                   | 5                | $\textcolor{red}{\textsf{750tSQD}}$  | open   |
 
 # Acceptance critera
 
